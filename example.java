@@ -1,8 +1,9 @@
 import java.util.*;
 
-public Example{
+public class Example{
  public void main(String []args){
-	System.out.println("Hello Team Earth");
+	//Add further lines for collab
+	 System.out.println("Hello Team Earth");
 
  }
 
